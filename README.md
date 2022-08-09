@@ -1,1 +1,1 @@
-# imdb-react
+# omdb-react
